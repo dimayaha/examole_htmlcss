@@ -1,0 +1,5 @@
+[2018-02-07 10:14:33] layer "krug.jpd": Unsupported extension: jpd
+[2018-02-07 10:14:33] layer "The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", ": Expected end of input but "," found.
+[2018-02-07 10:14:33] layer "The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", ": Expected end of input but "," found.
+[2018-02-07 10:14:33] layer "The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", ": Expected end of input but "," found.
+[2018-02-07 10:14:33] layer "The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", ": Expected end of input but "," found.
